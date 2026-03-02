@@ -2,7 +2,7 @@
 title: "VoxFall: Non-Parametric Volumetric Change Detection for Rockfalls"
 
 date: 2025-06-05
-venue: 'arxiv'
+venue: 'Engineering Geology'
 authors:
   - me
   - davide_guccione
