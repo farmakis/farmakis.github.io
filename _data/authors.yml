@@ -1,18 +1,65 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+me:
+  first_name: Ioannis
+  last_name: Farmakis
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+davide_guccione:
+  first_name: Davide
+  last_name: Guccione
+  url: https://davideguccione.com
+
+david_bonneau:
+  first_name: David
+  last_name: Bonneau
+  url: https://davidbonneau.com
+
+paul_mark_difrancesco:
+  first_name: Paul Mark
+  last_name: DiFrancesco
+  url: https://paulmarkdifrancesco.com
+
+klaus_thoeni:
+  first_name: Klaus
+  last_name: Thoeni
+  url: https://klausthoeni.com
+
+anna_giacomini:
+  first_name: Anna
+  last_name: Giacomini
+  url: https://annagiacomini.com
+
+umair_iqbal:
+  first_name: Umair
+  last_name: Iqbal
+  url: https://umairiqbal.com
+
+paolo_mazzanti:
+  first_name: Paolo
+  last_name: Mazzanti
+  url: https://paolomazzanti.com
+
+efstratios_karantanellis:
+  first_name: Efstratios
+  last_name: Karantanellis
+  url: https://efstratioskarantanellis.com
+
+jean_hutchinson:
+  first_name: Jean
+  last_name: Hutchinson
+  url: https://jeanhutchinson.com
+
+nicholas_vlachopoulos:
+  first_name: Nicholas
+  last_name: Vlachopoulos
+  url: https://nicholasvlachopoulos.com
+
+gian_marco_marmoni:
+  first_name: Gian Marco
+  last_name: Marmoni
+  url: https://gianmarcomarmoni.com
+
+vassilis_marinos:
+  first_name: Vassilis
+  last_name: Marinos
+  url: https://vassilismarinos.com
