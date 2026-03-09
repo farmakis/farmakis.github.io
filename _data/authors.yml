@@ -15,7 +15,7 @@ david_bonneau:
   url: https://davidbonneau.com
 
 paul_mark_difrancesco:
-  first_name: Paul Mark
+  first_name: Paul-Mark
   last_name: DiFrancesco
   url: https://paulmarkdifrancesco.com
 
@@ -63,3 +63,13 @@ vassilis_marinos:
   first_name: Vassilis
   last_name: Marinos
   url: https://vassilismarinos.com
+
+matt_westoby:
+  first_name: Matthew
+  last_name: Westoby
+  url: https://mattwestoby.com
+
+mike_lim:
+  first_name: Michael
+  last_name: Lim
+  url: https://michaelelim.com

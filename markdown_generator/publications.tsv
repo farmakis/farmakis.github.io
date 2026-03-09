@@ -1,2 +1,2 @@
 title	date	venue	authors	project_url	paper_url	code_url	video_url	bibtex_id	prize	teaser_video	teaser_image
-VoxFall: Non-Parametric Volumetric Change Detection for Rockfalls	2025-06-05	Engineering Geology	me, davide_guccione, klaus_thoeni, anna_giacomini	null	https://doi.org/10.1016/j.enggeo.2025.108045	null	null	null	null	null	/images/publications/voxfall.jpg
+VoxFall: Non-Parametric Volumetric Change Detection for Rockfalls	2025-06-05	Engineering Geology	me, davide_guccione, klaus_thoeni, anna_giacomini		https://doi.org/10.1016/j.enggeo.2025.108045	https://github.com/farmakis/VoxFall.git		voxfall2025			/images/publications/voxfall.jpg
