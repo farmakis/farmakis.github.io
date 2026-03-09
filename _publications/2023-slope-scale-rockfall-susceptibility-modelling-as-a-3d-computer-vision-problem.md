@@ -1,7 +1,7 @@
 ---
 title: "Slope-Scale Rockfall Susceptibility Modelling as a 3D Computer Vision Problem"
 
-date: 2022-05-23
+date: 2023-05-23
 venue: 'Remote Sensing'
 authors:
   - me

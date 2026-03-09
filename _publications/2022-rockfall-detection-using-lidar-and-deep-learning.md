@@ -19,7 +19,7 @@ bibtex: |
   volume = {309},
   pages = {106836},
   year = {2022},
-  issn = {0013-7952},
+  issn = {0013-7952}
   }
 teaser_image: '/images/publications/rockfall-detection.png'
 ---
