@@ -26,11 +26,11 @@ author:
   avatar           : "ioannis.jpg"
   name             : "Ioannis Farmakis"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher. 3D Data Science and Deep Learning."
-  location         : "Rome, Italy"
-  employer         : "Sapienza University of Rome"
+  bio              : "3D Data Research Engineer."
+  location         : "Montpellier, France"
+  employer         : "YellowScan, BRGM"
   uri              : # URL
-  email            : "ioannis.farmakis@uniroma1.it" 
+  email            : "farmakisig@gmail.com" 
 
   # Academic websites
   academia         : # URL
